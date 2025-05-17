@@ -15,8 +15,8 @@
 - 🎓 Graduated from Najot Ta’lim with a specialization in .NET Development  
 - 💼 Worked on real-world projects at Ilm Hub, focusing on scalable Web APIs  
 - 📚 Passionate about writing clean code, learning modern design patterns, and mastering distributed systems  
-- 🎥 I also run a (https://youtube.com/@yourchannel](https://www.youtube.com/@codes_with_abdullah/featured) where I teach .NET and C# development  
-- ✍️ I share programming articles on [Dev.to](https://dev.to/yourprofile) and Telegram blog  
+- 🎥 I also run a [(https://youtube.com/@yourchannel](https://www.youtube.com/@codes_with_abdullah/featured)](https://www.youtube.com/@codes_with_abdullah/featured) where I teach .NET and C# development  
+- ✍️ I share programming articles on [(https://dev.to/yourprofile](https://dev.to/kamoliddin_zaylobiddinov_)] and Telegram blog  
 
 ---
 
