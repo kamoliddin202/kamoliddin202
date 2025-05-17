@@ -39,11 +39,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [🔐 CRM Web API](https://github.com/kamoliddin202/crm-api) | ASP.NET Core Web API with Identity, JWT Auth, EF Core, and Clean Architecture |
-| [💬 BlazingChat](https://github.com/kamoliddin202/blazingchat) | A real-time chat application using Blazor WebAssembly and SignalR |
-| [🌍 World Time CLI](https://github.com/kamoliddin202/worldtime-cli) | Command-line app showing world time zones, using .NET and external APIs |
-| [📚 C# Tutorials Series] ([https://www.youtube.com/@codes_with_abdullah/featured](https://www.youtube.com/@codes_with_abdullah/featured)) | Beginner to advanced level tutorials covering C#, LINQ, EF Core, and more |
-
+| [📚 Books API](https://github.com/kamoliddin202/BooksAPI) | A RESTful API for managing books using ASP.NET Core, EF Core, Clean Architecture, Repository & Unit of Work patterns |
+| [✅ ToDo List API](https://github.com/kamoliddin202/ToDoListAPI) | A user-based ToDo management system built with ASP.NET Core Web API and Identity, JWT authentication, Generic Repository, and layered architecture |
+| [🔐 CRM Web API](https://github.com/kamoliddin202/CRM_Asp.Net.Core.WebAPI) | A robust CRM backend with ASP.NET Core, Identity, JWT, Clean Architecture, and Domain-Driven Design principles |
 ---
 
 ## 📊 GitHub Stats
