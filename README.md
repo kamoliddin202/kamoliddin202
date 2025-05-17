@@ -39,10 +39,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [🔐 CRM Web API](https://github.com/YOUR_USERNAME/crm-api) | ASP.NET Core Web API with Identity, JWT Auth, EF Core, and Clean Architecture |
-| [💬 BlazingChat](https://github.com/YOUR_USERNAME/blazingchat) | A real-time chat application using Blazor WebAssembly and SignalR |
-| [🌍 World Time CLI](https://github.com/YOUR_USERNAME/worldtime-cli) | Command-line app showing world time zones, using .NET and external APIs |
-| [📚 C# Tutorials Series](https://www.youtube.com/@yourchannel) | Beginner to advanced level tutorials covering C#, LINQ, EF Core, and more |
+| [🔐 CRM Web API](https://github.com/kamoliddin202/crm-api) | ASP.NET Core Web API with Identity, JWT Auth, EF Core, and Clean Architecture |
+| [💬 BlazingChat](https://github.com/kamoliddin202/blazingchat) | A real-time chat application using Blazor WebAssembly and SignalR |
+| [🌍 World Time CLI](https://github.com/kamoliddin202/worldtime-cli) | Command-line app showing world time zones, using .NET and external APIs |
+| [📚 C# Tutorials Series] ([https://www.youtube.com/@codes_with_abdullah/featured](https://www.youtube.com/@codes_with_abdullah/featured)) | Beginner to advanced level tutorials covering C#, LINQ, EF Core, and more |
 
 ---
 
@@ -58,10 +58,10 @@
 ## 📬 Let's Connect
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:kamoliddinzaylobiddinov677@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/abdullohibnmansur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kamoliddin-zaylobiddinov-1627b3297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@codes_with_abdullah/featured"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
